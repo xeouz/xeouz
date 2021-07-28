@@ -8,3 +8,5 @@ Current Projects --
 2. The Expert-Bot (A bot for my discord server and stuff)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Feel free to use my projects however you want just be sure to give me credit if you want to be generous, thanks!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+My Server :- https://discord.gg/P4mkhptTFh
