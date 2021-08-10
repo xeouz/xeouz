@@ -1,4 +1,4 @@
-<main
+<<main
 <div align="center">
 <img src="./gif1.gif" width="700px">
 <br>
@@ -47,4 +47,4 @@ Feel free to use my projects however you want just be sure to give me credit if 
 My Server :- https://discord.gg/P4mkhptTFh
   </p>
 
-main>
+>
