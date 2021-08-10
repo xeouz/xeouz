@@ -39,6 +39,8 @@ Current Projects --
 
 3. Le Wither (Major Minecaft Discord Bot)
 
+4. Dictionary Brute Force 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <_Feel free to use my projects however you want just be sure to give me credit if you want to be generous, thanks!_>
