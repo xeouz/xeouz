@@ -1,4 +1,4 @@
-<<main
+
 <div align="center">
 <img src="./gif1.gif" width="700px">
 <br>
