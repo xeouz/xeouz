@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./gif1.gif">
+<img src="./gif1.gif" width="700px">
 <br>
 <img src="https://img.shields.io/github/followers/Xeouz?style=social">
 <br>
