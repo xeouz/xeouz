@@ -2,7 +2,7 @@
 ========
 
 <div align="center">
-<img src="./gif1.gif" width="700px">
+<img src="./gif1.gif" width="400px">
 <br>
 <img src="https://img.shields.io/github/followers/Xeouz?style=social">
 <br>
