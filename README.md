@@ -8,24 +8,6 @@
 <br>
 </div>
 
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Current Projects --
-
-1. Python Based Voice Assistant 
-
-2. The Expert-Bot (A bot for my discord server and stuff)
-
-3. Le Wither (Major Minecaft Discord Bot)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<_Feel free to use my projects however you want just be sure to give me credit if you want to be generous, thanks!_>
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 My Server : [Agency Alpha](https://discord.gg/P4mkhptTFh)
 =======
 <msg align="center">Hey There People, It's another programmer here, newbie or advanced you decide, I'm just for others to get inspired from, it's up to you whether to get it or not.
@@ -46,6 +28,22 @@ So that others may refer to it as a starting point !</msg>
   
 </p>
 <br />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Current Projects --
+
+1. Python Based Voice Assistant 
+
+2. The Expert-Bot (A bot for my discord server and stuff)
+
+3. Le Wither (Major Minecaft Discord Bot)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<_Feel free to use my projects however you want just be sure to give me credit if you want to be generous, thanks!_>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Feel free to use my projects however you want just be sure to give me credit if you want to be generous, thanks!
 <p align="center">
 My Server :- https://discord.gg/P4mkhptTFh
