@@ -1,4 +1,4 @@
-<le align="center"> **Hello There!**</le>
+<le align="center"> **Hello There**</le>
 ========
 
 <div align="center">
@@ -40,7 +40,7 @@ So that others may refer to it as a starting point !</msg>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xeouz&layout=compact&hide_border=true&t&card_width=150&theme=onedark" height="150rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeouz&layout=compact&hide_border=true&t&card_width=250&theme=onedark" height="150rem" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeouz&theme=onedark" height="150rem" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=dracula&margin-w=15&margin-h=15&column=7" height="150rem" />
   
 </p>
 <br />
