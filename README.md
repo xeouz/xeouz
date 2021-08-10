@@ -1,6 +1,9 @@
-
-<img src="./gif1.gif" align="center">
-
+<div align="center">
+<img src="./gif1.gif">
+<br>
+<img src="https://img.shields.io/github/followers/Xeouz?style=social">
+<br>
+</div>
 
 Hey There People, It's another programmer here, newbie or advanced you decide, I'm just for others to get inspired from, it's up to you whether to get it or not.
 I feel like the projects I'm currently taking on require a good amount of workaround so I want to share some source codes to my projects
