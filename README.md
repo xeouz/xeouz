@@ -32,7 +32,7 @@ My Server : [Agency Alpha](https://discord.gg/P4mkhptTFh)
 I feel like the projects I'm currently taking on require a good amount of workaround so I want to share some source codes to my projects
 So that others may refer to it as a starting point !</msg>
 
-<p align="center">__Current Projects__</p>
+<p align="center"><<<___Current Projects___>>></p>
 <p align="center">Python Based Voice Assistant</p>
 <p align="center">The Expert-Bot (A bot for my discord server and stuff)</p>
 <p align="center">
