@@ -11,8 +11,6 @@ So that others may refer to it as a starting point !</msg>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xeouz&layout=compact&hide_border=true&t&card_width=150&theme=onedark" height="150rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeouz&layout=compact&hide_border=true&t&card_width=250&theme=onedark" height="150rem" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeouz&repo=Basic-Voice-Assistant--Python" height="100rem" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeouz&repo=Dictionary-Attack----Password-Strength-Checker" height="100rem" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeouz" height="150rem" />
   
 </p>
