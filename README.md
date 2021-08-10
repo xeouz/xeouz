@@ -32,7 +32,9 @@ My Server : [Agency Alpha](https://discord.gg/P4mkhptTFh)
 I feel like the projects I'm currently taking on require a good amount of workaround so I want to share some source codes to my projects
 So that others may refer to it as a starting point !</msg>
 
-<p align="center"><<<___Current Projects___>>></p>
+<p align="center"> 
+<--Current Projects-->
+</p>
 <p align="center">Python Based Voice Assistant</p>
 <p align="center">The Expert-Bot (A bot for my discord server and stuff)</p>
 <p align="center">
@@ -40,7 +42,7 @@ So that others may refer to it as a starting point !</msg>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xeouz&layout=compact&hide_border=true&t&card_width=150&theme=onedark" height="150rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeouz&layout=compact&hide_border=true&t&card_width=250&theme=onedark" height="150rem" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=dracula&margin-w=15&margin-h=15&column=7" height="150rem" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xeouz&theme=dracula&margin-w=15&margin-h=15&column=7" height="150rem" />
   
 </p>
 <br />
