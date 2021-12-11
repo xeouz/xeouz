@@ -8,8 +8,8 @@
 <br>
 </div>
 
-![#1589F0]&lt;Info&gt;
-<msg align="center">I am coder.</msg>
+&lt;Info&gt;
+<msg align="left">I am coder.</msg>
 
 <p align="center"> 
 &lt;Cool shit&gt;
