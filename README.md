@@ -8,7 +8,7 @@
 <br>
 </div>
 
-&lt;Info&gt;
+![#1589F0]&lt;Info&gt;
 <msg align="center">I am coder.</msg>
 
 <p align="center"> 
