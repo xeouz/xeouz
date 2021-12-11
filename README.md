@@ -8,7 +8,9 @@
 <br>
 </div>
 
+<font color='green'>
 &lt;Info&gt;
+</font>
 <msg align="left">I am coder.</msg>
 
 <p align="center"> 
