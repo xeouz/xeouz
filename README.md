@@ -8,11 +8,11 @@
 <br>
 </div>
 
-&lt;Info&lt;
+&lt;Info&gt;
 <msg align="center">I am coder.</msg>
 
 <p align="center"> 
-Cool shit
+&lt;Cool shit&gt;
 </p>
 <p align="center">Ultron Bot </p>
 <p align="center">ASCII Python Game Engine - CursEngine (A bot for my discord server and stuff)</p>
