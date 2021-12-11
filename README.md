@@ -8,18 +8,15 @@
 <br>
 </div>
 
-My Server : [Agency Alpha](https://discord.gg/P4mkhptTFh)
+<Info>
 =======
-<msg align="center">Hey There People, It's another programmer here, newbie or advanced you decide, I'm just for others to get inspired from, it's up to you whether to get it or not.
-I feel like the projects I'm currently taking on require a good amount of workaround so I want to share some source codes to my projects
-So that others may refer to it as a starting point !</msg>
+<msg align="center">I am coder.</msg>
 
 <p align="center"> 
-<--Current Projects-->
+Cool shit
 </p>
-<p align="center">Python Based Voice Assistant</p>
-<p align="center">The Expert-Bot (A bot for my discord server and stuff)</p>
-<p align="center">
+<p align="center">Ultron Bot </p>
+<p align="center">ASCII Python Game Engine - CursEngine (A bot for my discord server and stuff)</p>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xeouz&layout=compact&hide_border=true&t&card_width=150&theme=onedark" height="150rem"/>
@@ -28,18 +25,6 @@ So that others may refer to it as a starting point !</msg>
   
 </p>
 <br />
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Current Projects --
-
-1. Python Based Voice Assistant 
-
-2. The Expert-Bot (A bot for my discord server and stuff)
-
-3. Le Wither (Major Minecaft Discord Bot)
-
-4. Dictionary Brute Force 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
