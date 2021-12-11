@@ -8,8 +8,7 @@
 <br>
 </div>
 
-<Info>
-=======
+&lt;Info&lt;
 <msg align="center">I am coder.</msg>
 
 <p align="center"> 
